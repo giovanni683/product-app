@@ -33,8 +33,6 @@ Este é um sistema de cadastro e listagem de produtos desenvolvido com **Spring 
 
 ## Como Executar o Projeto
 
-Aqui está o trecho do README em **Markdown** formatado corretamente para exibição no GitHub:
-
 ```markdown
 ## Como Executar o Projeto
 
